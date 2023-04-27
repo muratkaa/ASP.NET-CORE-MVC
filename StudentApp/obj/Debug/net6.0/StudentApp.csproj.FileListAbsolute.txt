@@ -1,0 +1,174 @@
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\appsettings.json
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.staticwebassets.runtime.json
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.exe
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.deps.json
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.runtimeconfig.json
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.pdb
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.AssemblyReference.cache
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfo.cs
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.RazorAssemblyInfo.cache
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.RazorAssemblyInfo.cs
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets\msbuild.StudentApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentApp.props
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentApp.props
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentApp.props
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\scopedcss\bundle\StudentApp.styles.css
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\scopedcss\projectbundle\StudentApp.bundle.scp.css
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CopyComplete
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\refint\StudentApp.dll
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.pdb
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.genruntimeconfig.cache
+C:\Users\ersinonur.erdogan\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\ref\StudentApp.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.AssemblyReference.cache
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfo.cs
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.RazorAssemblyInfo.cache
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.RazorAssemblyInfo.cs
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\refint\StudentApp.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.pdb
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\appsettings.json
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.staticwebassets.runtime.json
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.exe
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.deps.json
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.runtimeconfig.json
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.pdb
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets\msbuild.StudentApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentApp.props
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentApp.props
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentApp.props
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\scopedcss\bundle\StudentApp.styles.css
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\scopedcss\projectbundle\StudentApp.bundle.scp.css
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CopyComplete
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.genruntimeconfig.cache
+C:\Users\murat\OneDrive\Desktop\OKUL\4.DÖNEM\PROGRAMMING APPLICATIONS\ODEV\StudentApp\StudentApp\obj\Debug\net6.0\ref\StudentApp.dll

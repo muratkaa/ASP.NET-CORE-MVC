@@ -1,0 +1,20 @@
+﻿
+@model StudentApp.Models.StudentViewModel
+@{
+}
+<form method="post" actipn="Add">
+  <div class="mb-3">
+    <label for="" class="form-label">First Name</label>
+    <input type="text" class="form-control" asp-for="FirstName"  >
+  </div>
+  <div class="mb-3">
+    <label for="" class="form-label">Last Name</label>
+    <input type="text" class="form-control" asp-for="LastName"  >
+  </div>
+  <div class="mb-3">
+    <label for="" class="form-label">Email Address</label>
+    <input type="email" class="form-control" asp-for="Email"  >
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
